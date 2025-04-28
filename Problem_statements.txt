@@ -1,0 +1,151 @@
+1) does movie rating effect its revenue?
+
+
+	--------------------------------------------------------------------------------------------------------------------
+
+
+
+2)  Which genres generate the highest revenue and ratings?
+Analysis: Explore the relationship between movie genres and their financial success (revenue) as well as critical success (vote_average).
+
+Visualizations:
+
+Bar chart: Average revenue per genre.
+
+Box plot: Distribution of ratings (vote_average) by genre.
+
+Scatter plot: Budget vs. revenue, colored by genre.
+
+Insight: Identify which genres are most profitable and well-received to guide future production decisions.
+
+
+
+	--------------------------------------------------------------------------------------------------------------------
+
+
+
+3) How does runtime impact movie performance?
+Analysis: Examine whether longer or shorter movies perform better in terms of revenue and ratings.
+
+Visualizations:
+
+Histogram: Distribution of runtimes.
+
+Scatter plot: Runtime vs. revenue.
+
+Violin plot: Runtime distribution by genre.
+
+Insight: Identify the optimal runtime for maximizing audience engagement and profitability.
+
+
+	--------------------------------------------------------------------------------------------------------------------
+
+
+4) Which production companies produce the most successful movies?
+Analysis: Compare the performance (revenue, ratings) of movies by different production companies.
+
+Visualizations:
+
+Bar chart: Top 10 production companies by average revenue.
+
+Treemap: Revenue share by production company.
+
+Insight: Highlight top-performing studios for potential collaborations or competitive analysis.
+
+
+	--------------------------------------------------------------------------------------------------------------------
+
+
+
+5) Are movies released in certain months more successful?
+Analysis: Study seasonal trends in movie releases and their impact on revenue and ratings.
+
+Visualizations:
+
+Line chart: Average revenue by month of release.
+
+Bar chart: Number of releases per month.
+
+Insight: Identify the best time of year to release movies for maximum impact.
+
+
+	--------------------------------------------------------------------------------------------------------------------
+
+
+
+6) How do original language and country of production affect success?
+Analysis: Compare the performance of movies based on their original language or production country.
+
+Visualizations:
+
+Bar chart: Average revenue by original language.
+
+World map: Revenue distribution by production country.
+
+Insight: Determine if localization or international collaborations are beneficial.
+
+
+	--------------------------------------------------------------------------------------------------------------------
+
+
+
+7) What is the relationship between popularity (TMDB score) and revenue/ratings?
+Analysis: Explore whether higher popularity scores translate to higher revenue or ratings.
+
+Visualizations:
+
+Scatter plot: Popularity vs. revenue.
+
+Scatter plot: Popularity vs. vote_average.
+
+Insight: Assess if marketing efforts (popularity) align with financial or critical success.
+
+
+	--------------------------------------------------------------------------------------------------------------------
+
+
+8) Do movies with taglines or homepages perform better?
+Analysis: Check if marketing elements like taglines or official homepages correlate with success.
+
+Visualizations:
+
+Box plot: Revenue comparison for movies with/without taglines.
+
+Box plot: Ratings comparison for movies with/without homepages.
+
+Insight: Evaluate the importance of supplementary marketing materials.
+
+
+	--------------------------------------------------------------------------------------------------------------------
+
+
+
+9) Are there outliers in the dataset (e.g., high revenue with low budget)?
+Analysis: Identify anomalies or unexpected successes (e.g., low-budget blockbusters).
+
+Visualizations:
+
+Scatter plot: Budget vs. revenue with highlighted outliers.
+
+Table: List of outlier movies with key metrics.
+
+Insight: Learn from exceptional cases to replicate their success.
+
+
+	--------------------------------------------------------------------------------------------------------------------
+
+
+10) How has movie performance evolved over time?
+Analysis: Track trends in revenue, budget, and ratings across years.
+
+Visualizations:
+
+Line chart: Average revenue over time.
+
+Line chart: Average budget over time.
+
+Insight: Identify long-term trends to inform future strategies.
+
+
+
+	--------------------------------------------------------------------------------------------------------------------
